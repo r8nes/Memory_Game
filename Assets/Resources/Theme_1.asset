@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dbbee460b552d146830e6267b5ba35f, type: 3}
+  m_Name: Theme_1
+  m_EditorClassIdentifier: 
+  BaskSprite: {fileID: 21300000, guid: 07871b7e16892314facaa677af76b337, type: 3}
+  AllSprites:
+  - {fileID: 21300000, guid: a46aa8dba17ea9248b267d3bb2a0fa8b, type: 3}
+  - {fileID: 21300000, guid: 1885b2a0ba453964880f2b52e651905a, type: 3}
+  - {fileID: 21300000, guid: 8fe288bc1adb8cc40bf4783068006fb6, type: 3}
+  - {fileID: 21300000, guid: 1000745e5d5e7b4488c4aabd06ee84f3, type: 3}
+  - {fileID: 21300000, guid: e3d0c6419159ba04b8ca2415d26d1656, type: 3}
+  - {fileID: 21300000, guid: f5b7c20b4b1632041aad43e4c5f7ab1e, type: 3}
